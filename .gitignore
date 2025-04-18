@@ -1,4 +1,4 @@
-.env
+w.env
 venv
 .logs/*.log
 networksecurity.egg-info
@@ -13,6 +13,9 @@ dill
 mlruns
 __pycache__
 test_if_else.py
-data
 pdf
+.env
+pptx
 *.pdf
+*.pptx
+*.bin
