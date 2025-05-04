@@ -20,3 +20,9 @@ pptx
 *.pptx
 *.bin
 references
+capstone_db
+*.db
+*.sqlite
+*.sqlite3
+*.odp
+*.odt
