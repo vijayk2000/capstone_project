@@ -26,3 +26,12 @@ capstone_db
 *.sqlite3
 *.odp
 *.odt
+*.pickle
+*.pkl
+*.sqlite3
+*.db
+capstone_db/chroma.sqlite3
+chroma
+*.sqlite
+capstone_*
+capstone_db
